@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "wskylover.github.io",
+  "Id": "36fa8464-cd65-40cc-b258-97941872186b"
+}
